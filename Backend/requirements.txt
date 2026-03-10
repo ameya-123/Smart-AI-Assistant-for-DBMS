@@ -1,0 +1,17 @@
+# --- Web Server & API ---
+flask
+flask-cors
+python-dotenv
+
+# --- Database (MySQL & ORM) ---
+flask-sqlalchemy
+pymysql
+cryptography
+
+# --- AI & RAG Pipeline ---
+langchain
+langchain-community
+langchain-huggingface
+chromadb
+pypdf
+sentence-transformers

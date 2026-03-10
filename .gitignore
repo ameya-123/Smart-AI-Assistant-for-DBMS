@@ -1,0 +1,16 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/reports/*.pdf
+backend/reports/*.docx
+
+# Node.js
+node_modules/
+dist/
+.env
+
+# Database/IDEs
+.vscode/
+.idea/
+*.db
